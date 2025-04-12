@@ -1,4 +1,4 @@
-# Vrinda-store-data-report-Excel
+# Vrinda-store-report-Excel
 
 # 🌟 Vrinda Store Analysis — Turning Raw Data into Business Insights
 
