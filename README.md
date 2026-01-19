@@ -68,21 +68,3 @@ In real-world business, it’s not about how much data you have — it’s what 
 1. Download the Excel file  
 2. Open in Excel  
 3. Start exploring — filter, click, and reveal insights
-
-If you'd like a guided walk-through or a video demo, feel free to reach out!
-
----
-
-## 💌 Let’s Connect
-
-Curious about the data? Want to collaborate or discuss improvements? I'm all ears.
-
-- 📫 Email: roshanchimane2003@gmail.com 
-- 🐙 GitHub: roshanchimane
-
-Thanks for stopping by. If this project helped spark an idea — or just made you appreciate Excel a little more — then it’s already a win.
-
----
-
-📁 *Data may be fictional, but the process is real.*
-
