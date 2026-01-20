@@ -52,19 +52,4 @@ What started as rows and columns is now a strategic dashboard ready for decision
 
 In real-world business, it’s not about how much data you have — it’s what you *do* with it. This project shows how Excel (yes, just Excel!) can become a powerful tool for storytelling and strategy.
 
----
 
-## 🔍 Peek Under the Hood
-
-- Microsoft Excel (2016+ recommended)
-- Pivot Tables, Charts, Slicers
-- Clean data transformation
-- Sleek dashboard design
-
----
-
-## 🚀 Getting Started
-
-1. Download the Excel file  
-2. Open in Excel  
-3. Start exploring — filter, click, and reveal insights
