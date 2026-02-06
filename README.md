@@ -46,10 +46,5 @@ Fully interactive. No macros. Just clean design and solid logic.
 
 What started as rows and columns is now a strategic dashboard ready for decision-makers.
 
----
-
-## 🎯 Why This Matters
-
-In real-world business, it’s not about how much data you have — it’s what you *do* with it. This project shows how Excel (yes, just Excel!) can become a powerful tool for storytelling and strategy.
 
 
