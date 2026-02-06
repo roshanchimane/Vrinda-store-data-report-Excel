@@ -44,7 +44,6 @@ Fully interactive. No macros. Just clean design and solid logic.
 - 🧑‍💼 **Customer segments** visualized with clarity  
 - 🔄 **Seasonal sales trends** brought to life  
 
-What started as rows and columns is now a strategic dashboard ready for decision-makers.
 
 
 
