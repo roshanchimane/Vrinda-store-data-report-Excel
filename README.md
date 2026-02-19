@@ -8,7 +8,7 @@ This isn’t just an Excel file. It’s a lens into the business’s heartbeat �
 
 
 
-## 📘 About the Project
+### 📘 About the Project
 
 The goal? To go beyond spreadsheets and craft a clear picture of Vrinda Store’s sales landscape.
 
