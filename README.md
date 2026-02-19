@@ -21,7 +21,7 @@ Through dynamic dashboards, clean visuals, and strategic slicing of the data, th
 
 It’s Excel, but elevated.
 
----
+
 
 ## 🧰 What’s Inside
 
