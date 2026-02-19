@@ -1,6 +1,6 @@
 # Vrinda-store-report-Excel
 
-## 🌟 Vrinda Store Analysis — Turning Raw Data into Business Insights
+### 🌟 Vrinda Store Analysis — Turning Raw Data into Business Insights
 
 Welcome to a data storytelling project where numbers meet narrative. This Excel-based analysis dives into the performance of *Vrinda Store* — a retail business with rich data, hidden patterns, and untapped insights.
 
