@@ -35,7 +35,7 @@ Your all-in-one dashboard, with:
 
 Fully interactive. No macros. Just clean design and solid logic.
 
----
+
 
 ## ✨ Highlights
 
