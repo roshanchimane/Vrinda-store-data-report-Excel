@@ -23,7 +23,7 @@ It’s Excel, but elevated.
 
 
 
-## 🧰 What’s Inside
+### 🧰 What’s Inside
 
 📄 `Vrinda Store Analysis-Excel.xlsx`  
 Your all-in-one dashboard, with:
