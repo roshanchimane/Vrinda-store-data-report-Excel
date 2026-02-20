@@ -6,7 +6,7 @@ Welcome to a data storytelling project where numbers meet narrative. This Excel-
 
 This isn’t just an Excel file. It’s a lens into the business’s heartbeat — revealing what sells, who buys, and where the profits truly lie.
 
-
+--
 
 ### 📘 About the Project
 
