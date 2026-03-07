@@ -37,7 +37,7 @@ Fully interactive. No macros. Just clean design and solid logic.
 
 
 
-## ✨ Highlights
+### ✨ Highlights
 
 - 🚀 **Top products** surfaced with clean visuals  
 - 🌍 **Regional performance** mapped out in a few clicks  
